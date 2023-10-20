@@ -1,2 +1,2 @@
 Nuevo componente c
-en desarrollo1
+en desarrollo1 apuntado
